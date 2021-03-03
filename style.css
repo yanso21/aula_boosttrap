@@ -1,0 +1,39 @@
+.navbar  {
+    background-color:#808080 !important;
+    font-size: 20px;
+    font-family: serif;
+}
+.container-fluid {
+    background-color: #a9a9a9;
+}
+.mg-pd {
+    padding-top: 25px; /*padding add um espaço mas com a cor, o margin add espaço em branco*/
+    padding-bottom: 20px !important;
+}
+.quemsomos {
+    color: white;
+    font-family: serif;
+    font-size: 25px;
+}
+.margin {
+    background-color: #9099a2;
+    padding-bottom: 58px;
+    padding-top: 10px;
+}
+.servicos {
+    background-color: #6d7993;
+    font-family: serif;
+    font-size: 25px;
+    color: white;
+}
+.parceiros {
+    background-color: #d5d5d5;
+    color: white;
+    font-family: serif;
+    font-size: 25px;
+}
+.rdpe {
+    padding-bottom: 5px;
+    background-color: #96858f;
+    color: white;
+}
